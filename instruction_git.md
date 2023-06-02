@@ -31,7 +31,9 @@
 
     git commit -m <message>
 
+## *Добавление файла в репозиторий*
 
+    git commit -a
 
 
 - git init
