@@ -59,6 +59,10 @@
 
     git checkout master
 
+## *Разница между существующей версией и ранее сохраненной (зафиксированной)*
+
+    git diff
+
 - git init
 - git status
 - git add
