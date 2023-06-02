@@ -43,6 +43,12 @@
 
     git log
 
+## *Хронология, список всех коммитов (каждый commit одной строкой)*
+
+    git log --oneline
+
+
+
 - git init
 - git status
 - git add
