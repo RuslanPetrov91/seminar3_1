@@ -51,6 +51,10 @@
 
     git log --oneline --all
 
+## *Перемещение между сохраненными коммитами*
+
+    git checkout <hash>
+
 - git init
 - git status
 - git add
