@@ -55,6 +55,10 @@
 
     git checkout <hash>
 
+## *Перемещение между сохраненными коммитами на актуальную версию*
+
+    git checkout master
+
 - git init
 - git status
 - git add
