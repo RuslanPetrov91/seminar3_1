@@ -39,6 +39,10 @@
 
     git commit -am "message"
 
+## *Хронология, список всех коммитов*
+
+    git log
+
 - git init
 - git status
 - git add
