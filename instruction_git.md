@@ -15,12 +15,17 @@
 
     git add
 
+## *Добавление файла в конкретный репозиторий*
+
+    git add <filename>
+
+    
 
 
 - git init
 - git status
 - git add
-- git add /<filename>
+- git add \<filename>
 - git add .
 - git commit
 - git commit -m "message"
