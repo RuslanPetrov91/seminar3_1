@@ -63,6 +63,10 @@
 
     git diff
 
+## *Разница между ранее сохраненными (зафиксированными) версиями*
+
+    git diff <hash1> <hash2>
+
 - git init
 - git status
 - git add
