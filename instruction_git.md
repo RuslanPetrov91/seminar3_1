@@ -70,3 +70,7 @@
 ## Создание новой ветки
 
     git_branch <branch_name>
+
+## Новой ветки создание
+
+    git branch
