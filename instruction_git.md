@@ -78,3 +78,7 @@
 ##  *Слияние веток*
 
     git_merge
+
+## *Удаление веток*
+
+    git branch -d <branch_name>
