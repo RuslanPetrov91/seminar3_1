@@ -67,3 +67,6 @@
 
     git diff <hash1> <hash2>
 
+## Создание новой ветки
+
+    git_branch
