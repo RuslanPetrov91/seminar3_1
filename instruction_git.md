@@ -71,6 +71,12 @@
 
     git_branch <branch_name>
 
+<<<<<<< HEAD
 ## *Просмотр существующих веток*
 
     git_branch
+=======
+## Новой ветки создание
+
+    git branch
+>>>>>>> branch_new
