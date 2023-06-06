@@ -69,4 +69,4 @@
 
 ## *Создание новой ветки*
 
-    git_branch
+    git_branch <branch_name>
