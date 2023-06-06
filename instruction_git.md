@@ -82,3 +82,7 @@
 ## *Удаление веток*
 
     git branch -d <branch_name>
+
+## *Переходик*
+
+    git checkout *branch_name*
