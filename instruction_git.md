@@ -83,10 +83,10 @@
 
     git branch -d <branch_name>
 
-<<<<<<< HEAD
 ## *Переход между ветками*
-=======
-## *Переходик*
->>>>>>> neew_branch
 
     git checkout *branch_name*
+
+## *Показать графику (ветвление)*
+
+    git log --graph
